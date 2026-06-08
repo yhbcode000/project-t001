@@ -3,13 +3,16 @@ node_modules
 out
 dist
 build
+site/
 .env
+.env.*
+!.env.example
 .venv
 __pycache__
+*.py[cod]
 .pytest_cache
 .coverage
 .DS_Store
 target
 coverage
-
 *.tsbuildinfo

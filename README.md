@@ -52,6 +52,17 @@ Python services expect dependencies from their own `requirements.txt` files. The
 - Grafana: <http://localhost:3001>
 
 
+## Documentation site
+
+This repository includes a MkDocs documentation site using Material for MkDocs, Markdown source files, Mermaid diagrams, built-in search, optional mkdocstrings API pages, and a GitHub Actions workflow for GitHub Pages deployment.
+
+```bash
+python -m pip install -r docs/requirements.txt
+mkdocs serve
+```
+
+The site configuration lives in `mkdocs.yml`, while documentation pages and assets live in `docs/`.
+
 ## Verification
 
 ```bash
