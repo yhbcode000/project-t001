@@ -8,7 +8,7 @@ function createWindow() {
   const win = new BrowserWindow({
     width: 1280,
     height: 860,
-    title: 'Hello Platform Desktop',
+    title: 'Hello World Desktop',
     webPreferences: { contextIsolation: true, nodeIntegration: false, preload: path.join(__dirname, 'preload.js') }
   })
   win.loadURL(webUrl)

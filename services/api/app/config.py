@@ -3,7 +3,7 @@ from pydantic_settings import BaseSettings
 
 
 class Settings(BaseSettings):
-    database_url: str = 'postgresql+asyncpg://postgres:postgres@localhost:5432/hello_platform'
+    database_url: str = 'postgresql+asyncpg://postgres:postgres@localhost:5432/hello_world'
     redis_url: str = 'redis://localhost:6379/0'
     minio_endpoint: str = 'localhost:9000'
     minio_access_key: str = 'minioadmin'
@@ -12,7 +12,7 @@ class Settings(BaseSettings):
     livekit_api_key: str = 'devkey'
     livekit_api_secret: str = 'secret'
     sentry_dsn: str = ''
-    otel_service_name: str = 'hello-platform-api'
+    otel_service_name: str = 'hello-world-api'
 
     model_config = ConfigDict(env_file='.env', extra='ignore')
 

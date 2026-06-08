@@ -1,6 +1,6 @@
 # Rust Edge Service
 
-Axum provides the high-performance slice of the platform. Use it for latency-sensitive endpoints, streaming control paths, or CPU-heavy edge adapters.
+Axum provides the high-performance slice of the template. Use it for latency-sensitive endpoints, streaming control paths, or CPU-heavy edge adapters.
 
 ```bash
 cargo run

@@ -1,5 +1,6 @@
-site_name: Hello Platform Docs
-site_description: Documentation for the Hello Platform full-stack Hello World monorepo.
+site_name: Hello World Docs
+site_description: Documentation for the Hello World full-stack animation UI and AI-native application template.
+
 
 theme:
   name: material
@@ -7,6 +8,7 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.top
+    - navigation.indexes
     - search.highlight
     - search.suggest
     - content.code.copy
@@ -52,7 +54,45 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 
 nav:
-  - Home: index.md
-  - Technology Selection: technology-selection.md
-  - Architecture: architecture.md
-  - API Reference: api-reference.md
+  - Overview:
+      - Home: index.md
+      - Template Usage: template-usage.md
+      - Project Structure: project-structure.md
+      - Roadmap: roadmap.md
+  - Architecture:
+      - Architecture Overview: architecture.md
+      - Technology Selection: technology-selection.md
+      - GSAP Animation System: animation/gsap.md
+      - AI Agent Architecture: ai-native/agent-architecture.md
+      - Desktop Automation Safety: ai-native/desktop-automation-safety.md
+  - Applications:
+      - Web App: applications/web.md
+      - Mobile App: applications/mobile.md
+      - Desktop App: applications/desktop.md
+  - Services:
+      - FastAPI Backend: services/api.md
+      - Realtime Service: services/realtime.md
+      - Worker Service: services/worker.md
+      - Rust Edge Service: services/rust-edge.md
+      - Agent Service: services/agent.md
+  - Infrastructure:
+      - Docker Compose: infrastructure/docker-compose.md
+      - PostgreSQL: infrastructure/postgres.md
+      - Redis: infrastructure/redis.md
+      - MinIO: infrastructure/minio.md
+      - LiveKit: infrastructure/livekit.md
+      - Monitoring: infrastructure/monitoring.md
+  - Operations:
+      - Development: development.md
+      - Environment: environment.md
+      - Testing: testing.md
+      - Deployment: deployment.md
+  - Reference:
+      - API Reference: reference/api-reference.md
+      - Commands: reference/commands.md
+      - Environment Variables: reference/environment-variables.md
+  - Decisions:
+      - Monorepo ADR: adr/0001-monorepo.md
+      - Next.js + FastAPI ADR: adr/0002-nextjs-fastapi.md
+      - GSAP ADR: adr/0003-gsap-animation-system.md
+      - AI Automation ADR: adr/0004-ai-agent-and-automation-boundary.md

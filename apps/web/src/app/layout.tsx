@@ -3,7 +3,7 @@ import './globals.css'
 import { Providers } from '@/components/providers'
 
 export const metadata: Metadata = {
-  title: 'Hello Platform',
+  title: 'Hello World',
   description: 'Full-stack Hello World with Next.js, FastAPI, GSAP, Capacitor, Electron, Axum, and monitoring.'
 }
 

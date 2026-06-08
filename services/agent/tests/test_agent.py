@@ -11,8 +11,8 @@ async def test_agent_health():
 
 @pytest.mark.asyncio
 async def test_agent_hello_returns_plan_for_goal():
-    body = await agent_hello(AgentRequest(goal='Operate the hello platform'))
-    assert body['goal'] == 'Operate the hello platform'
+    body = await agent_hello(AgentRequest(goal='Operate the hello world'))
+    assert body['goal'] == 'Operate the hello world'
     assert body['message'] == 'Hello from the AI Agent layer'
     assert any('Celery' in step or 'Redis' in step for step in body['plan'])
 

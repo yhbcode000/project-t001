@@ -13,7 +13,7 @@ class AutomationCommand(str, Enum):
 
 
 class AgentRequest(BaseModel):
-    goal: str = Field(default='Say hello to the whole platform')
+    goal: str = Field(default='Say hello to the whole project')
 
 
 class AutomationRequest(BaseModel):
