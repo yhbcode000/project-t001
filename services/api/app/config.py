@@ -1,3 +1,4 @@
+from pydantic import ConfigDict
 from pydantic_settings import BaseSettings
 
 
@@ -13,9 +14,7 @@ class Settings(BaseSettings):
     sentry_dsn: str = ''
     otel_service_name: str = 'hello-platform-api'
 
-    class Config:
-        env_file = '.env'
-        extra = 'ignore'
+    model_config = ConfigDict(env_file='.env', extra='ignore')
 
 
 settings = Settings()

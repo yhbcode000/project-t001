@@ -1,5 +1,6 @@
 const { app, BrowserWindow, ipcMain } = require('electron')
 const path = require('path')
+const { automationCapabilities, requestAutomation } = require('./automation')
 
 const webUrl = process.env.WEB_URL || 'http://localhost:3000'
 
@@ -13,8 +14,8 @@ function createWindow() {
   win.loadURL(webUrl)
 }
 
-ipcMain.handle('automation:capabilities', () => ['screen capture', 'mouse move', 'mouse click', 'keyboard type'])
-ipcMain.handle('automation:request', (_event, request) => ({ accepted: true, request, status: 'desktop-adapter-placeholder' }))
+ipcMain.handle('automation:capabilities', automationCapabilities)
+ipcMain.handle('automation:request', (_event, request) => requestAutomation(request))
 
 app.whenReady().then(createWindow)
 app.on('window-all-closed', () => {

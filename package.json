@@ -20,7 +20,12 @@
     "typecheck": "npm --workspace apps/web run typecheck",
     "dev:agent": "cd services/agent && uvicorn app.main:app --reload --host 0.0.0.0 --port 8020",
     "test:python-compile": "python -m compileall services/api services/realtime services/worker services/agent",
-    "test:rust": "cd services/rust-edge && cargo check",
-    "test:web": "npm run typecheck && npm run build:web"
+    "test:rust": "cd services/rust-edge && cargo test",
+    "test:web": "npm --workspace apps/web run test && npm run typecheck && npm run build:web",
+    "test": "npm run test:web && npm run test:python && npm run test:rust && npm run test:desktop && npm run test:mobile && npm run test:docs",
+    "test:python": "cd services/api && python -m pytest && cd ../agent && python -m pytest && cd ../realtime && python -m pytest && cd ../worker && python -m pytest",
+    "test:desktop": "npm --workspace apps/desktop run test",
+    "test:mobile": "npm --workspace apps/mobile run test",
+    "test:docs": "mkdocs build --strict"
   }
 }

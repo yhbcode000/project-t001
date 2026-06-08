@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "capacitor sync",
     "ios": "capacitor open ios",
-    "android": "capacitor open android"
+    "android": "capacitor open android",
+    "test": "node --test"
   },
   "dependencies": {
     "@capacitor/android": "^7.4.4",
