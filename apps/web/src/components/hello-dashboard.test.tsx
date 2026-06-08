@@ -17,7 +17,14 @@ vi.mock('@/lib/api', async (importOriginal) => {
 })
 
 vi.mock('@/lib/gsap', () => ({
-  gsap: { timeline: () => ({ from: vi.fn().mockReturnThis(), to: vi.fn().mockReturnThis() }) },
+  gsap: {
+    timeline: () => ({ from: vi.fn().mockReturnThis(), to: vi.fn().mockReturnThis() }),
+    matchMedia: () => ({ add: (_query: string, callback: () => void) => callback(), revert: vi.fn() }),
+    set: vi.fn(),
+    to: vi.fn(),
+    from: vi.fn(),
+    utils: { toArray: () => [] }
+  },
   useGSAP: (callback: () => void) => callback()
 }))
 
@@ -26,7 +33,7 @@ describe('HelloDashboard', () => {
     const client = new QueryClient({ defaultOptions: { queries: { retry: false }, mutations: { retry: false } } })
     render(<QueryClientProvider client={client}><HelloDashboard /></QueryClientProvider>)
 
-    expect(screen.getByText('Full-stack Hello World Platform')).toBeInTheDocument()
+    expect(screen.getByText('Full-stack Hello World Template')).toBeInTheDocument()
     expect(screen.getByText('FastAPI + Query + Zustand')).toBeInTheDocument()
     expect(screen.getByText('Celery / Redis Queue')).toBeInTheDocument()
     expect(screen.getByText('LiveKit / WebRTC')).toBeInTheDocument()

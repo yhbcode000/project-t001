@@ -4,7 +4,7 @@ from celery import Celery
 from ..config import settings
 
 router = APIRouter(prefix='/jobs', tags=['jobs'])
-celery_app = Celery('hello-platform', broker=settings.redis_url, backend=settings.redis_url)
+celery_app = Celery('hello-world', broker=settings.redis_url, backend=settings.redis_url)
 
 
 class HelloJobRequest(BaseModel):

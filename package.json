@@ -1,5 +1,5 @@
 {
-  "name": "hello-platform-monorepo",
+  "name": "hello-world-monorepo",
   "private": true,
   "version": "0.1.0",
   "workspaces": [

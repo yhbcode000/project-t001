@@ -92,8 +92,8 @@ async def test_minio_upload_creates_bucket_and_puts_object(monkeypatch):
 
     monkeypatch.setattr(files, 'minio_client', FakeMinio())
     response = await files.upload_file(FakeUpload())
-    assert response == {'bucket': 'hello-platform', 'object': 'hello.txt', 'storage': 'MinIO'}
-    assert ('make_bucket', 'hello-platform') in calls
+    assert response == {'bucket': 'hello-world', 'object': 'hello.txt', 'storage': 'MinIO'}
+    assert ('make_bucket', 'hello-world') in calls
     assert calls[-1][0] == 'put_object'
 
 

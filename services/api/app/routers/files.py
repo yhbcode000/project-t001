@@ -2,7 +2,7 @@ from fastapi import APIRouter, UploadFile, File
 from ..dependencies import minio_client
 
 router = APIRouter(prefix='/files', tags=['files'])
-BUCKET = 'hello-platform'
+BUCKET = 'hello-world'
 
 
 @router.post('/upload')
