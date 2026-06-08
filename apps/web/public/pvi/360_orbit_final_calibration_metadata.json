@@ -1,0 +1,3897 @@
+{
+  "video_info": {
+    "video_path": "D:\\Envs\\MySelfOS_Env\\Prototype\\PrototypeV1\\video_generation_online\\output\\360_orbit\\360_orbit_final.mp4",
+    "fps": 24.0,
+    "duration_seconds": 10.083333,
+    "total_frames": 242
+  },
+  "calibration": {
+    "timestamps_seconds": [
+      0,
+      3,
+      7,
+      8
+    ],
+    "milestone_frames": [
+      0,
+      72,
+      168,
+      192
+    ],
+    "description": "4 timestamps marking rotation milestones. Rotation interpolates 0\u00b0 to 90\u00b0 between consecutive timestamps."
+  },
+  "frames": [
+    {
+      "frame": 0,
+      "time_seconds": 0.0,
+      "angles": {
+        "progress": 0.0,
+        "cycle_progress": 0.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.0,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 0.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 1,
+      "time_seconds": 0.041667,
+      "angles": {
+        "progress": 0.004149377593360996,
+        "cycle_progress": 0.013888888888888888,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.02181661564992912,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 1.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 2,
+      "time_seconds": 0.083333,
+      "angles": {
+        "progress": 0.008298755186721992,
+        "cycle_progress": 0.027777777777777776,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.04363323129985824,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 2.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 3,
+      "time_seconds": 0.125,
+      "angles": {
+        "progress": 0.012448132780082987,
+        "cycle_progress": 0.041666666666666664,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.06544984694978735,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 3.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 4,
+      "time_seconds": 0.166667,
+      "angles": {
+        "progress": 0.016597510373443983,
+        "cycle_progress": 0.05555555555555555,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.08726646259971647,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 5.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 5,
+      "time_seconds": 0.208333,
+      "angles": {
+        "progress": 0.02074688796680498,
+        "cycle_progress": 0.06944444444444445,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.1090830782496456,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 6.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 6,
+      "time_seconds": 0.25,
+      "angles": {
+        "progress": 0.024896265560165973,
+        "cycle_progress": 0.08333333333333333,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.1308996938995747,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 7.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 7,
+      "time_seconds": 0.291667,
+      "angles": {
+        "progress": 0.029045643153526972,
+        "cycle_progress": 0.09722222222222222,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.15271630954950383,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 8.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 8,
+      "time_seconds": 0.333333,
+      "angles": {
+        "progress": 0.03319502074688797,
+        "cycle_progress": 0.1111111111111111,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.17453292519943295,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 10.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 9,
+      "time_seconds": 0.375,
+      "angles": {
+        "progress": 0.03734439834024896,
+        "cycle_progress": 0.125,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.19634954084936207,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 11.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 10,
+      "time_seconds": 0.416667,
+      "angles": {
+        "progress": 0.04149377593360996,
+        "cycle_progress": 0.1388888888888889,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.2181661564992912,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 12.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 11,
+      "time_seconds": 0.458333,
+      "angles": {
+        "progress": 0.04564315352697095,
+        "cycle_progress": 0.1527777777777778,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.23998277214922034,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 13.750000000000002,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 12,
+      "time_seconds": 0.5,
+      "angles": {
+        "progress": 0.04979253112033195,
+        "cycle_progress": 0.16666666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.2617993877991494,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 15.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 13,
+      "time_seconds": 0.541667,
+      "angles": {
+        "progress": 0.05394190871369295,
+        "cycle_progress": 0.18055555555555555,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.28361600344907856,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 16.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 14,
+      "time_seconds": 0.583333,
+      "angles": {
+        "progress": 0.058091286307053944,
+        "cycle_progress": 0.19444444444444445,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.30543261909900765,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 17.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 15,
+      "time_seconds": 0.625,
+      "angles": {
+        "progress": 0.06224066390041494,
+        "cycle_progress": 0.20833333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.3272492347489368,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 18.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 16,
+      "time_seconds": 0.666667,
+      "angles": {
+        "progress": 0.06639004149377593,
+        "cycle_progress": 0.2222222222222222,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.3490658503988659,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 20.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 17,
+      "time_seconds": 0.708333,
+      "angles": {
+        "progress": 0.07053941908713693,
+        "cycle_progress": 0.2361111111111111,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.37088246604879505,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 21.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 18,
+      "time_seconds": 0.75,
+      "angles": {
+        "progress": 0.07468879668049792,
+        "cycle_progress": 0.25,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.39269908169872414,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 22.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 19,
+      "time_seconds": 0.791667,
+      "angles": {
+        "progress": 0.07883817427385892,
+        "cycle_progress": 0.2638888888888889,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.4145156973486533,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 23.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 20,
+      "time_seconds": 0.833333,
+      "angles": {
+        "progress": 0.08298755186721991,
+        "cycle_progress": 0.2777777777777778,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.4363323129985824,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 25.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 21,
+      "time_seconds": 0.875,
+      "angles": {
+        "progress": 0.08713692946058091,
+        "cycle_progress": 0.2916666666666667,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.45814892864851153,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 26.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 22,
+      "time_seconds": 0.916667,
+      "angles": {
+        "progress": 0.0912863070539419,
+        "cycle_progress": 0.3055555555555556,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.4799655442984407,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 27.500000000000004,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 23,
+      "time_seconds": 0.958333,
+      "angles": {
+        "progress": 0.0954356846473029,
+        "cycle_progress": 0.3194444444444444,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.5017821599483697,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 28.749999999999996,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 24,
+      "time_seconds": 1.0,
+      "angles": {
+        "progress": 0.0995850622406639,
+        "cycle_progress": 0.3333333333333333,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.5235987755982988,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 30.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 25,
+      "time_seconds": 1.041667,
+      "angles": {
+        "progress": 0.1037344398340249,
+        "cycle_progress": 0.3472222222222222,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.545415391248228,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 31.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 26,
+      "time_seconds": 1.083333,
+      "angles": {
+        "progress": 0.1078838174273859,
+        "cycle_progress": 0.3611111111111111,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.5672320068981571,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 32.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 27,
+      "time_seconds": 1.125,
+      "angles": {
+        "progress": 0.11203319502074689,
+        "cycle_progress": 0.375,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.5890486225480862,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 33.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 28,
+      "time_seconds": 1.166667,
+      "angles": {
+        "progress": 0.11618257261410789,
+        "cycle_progress": 0.3888888888888889,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.6108652381980153,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 35.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 29,
+      "time_seconds": 1.208333,
+      "angles": {
+        "progress": 0.12033195020746888,
+        "cycle_progress": 0.4027777777777778,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.6326818538479445,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 36.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 30,
+      "time_seconds": 1.25,
+      "angles": {
+        "progress": 0.12448132780082988,
+        "cycle_progress": 0.4166666666666667,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.6544984694978736,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 37.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 31,
+      "time_seconds": 1.291667,
+      "angles": {
+        "progress": 0.12863070539419086,
+        "cycle_progress": 0.4305555555555556,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.6763150851478027,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 38.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 32,
+      "time_seconds": 1.333333,
+      "angles": {
+        "progress": 0.13278008298755187,
+        "cycle_progress": 0.4444444444444444,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.6981317007977318,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 40.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 33,
+      "time_seconds": 1.375,
+      "angles": {
+        "progress": 0.13692946058091288,
+        "cycle_progress": 0.4583333333333333,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.7199483164476609,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 41.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 34,
+      "time_seconds": 1.416667,
+      "angles": {
+        "progress": 0.14107883817427386,
+        "cycle_progress": 0.4722222222222222,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.7417649320975901,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 42.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 35,
+      "time_seconds": 1.458333,
+      "angles": {
+        "progress": 0.14522821576763487,
+        "cycle_progress": 0.4861111111111111,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.7635815477475192,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 43.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 36,
+      "time_seconds": 1.5,
+      "angles": {
+        "progress": 0.14937759336099585,
+        "cycle_progress": 0.5,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.7853981633974483,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 45.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 37,
+      "time_seconds": 1.541667,
+      "angles": {
+        "progress": 0.15352697095435686,
+        "cycle_progress": 0.5138888888888888,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.8072147790473773,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 46.24999999999999,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 38,
+      "time_seconds": 1.583333,
+      "angles": {
+        "progress": 0.15767634854771784,
+        "cycle_progress": 0.5277777777777778,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.8290313946973066,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 47.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 39,
+      "time_seconds": 1.625,
+      "angles": {
+        "progress": 0.16182572614107885,
+        "cycle_progress": 0.5416666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.8508480103472357,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 48.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 40,
+      "time_seconds": 1.666667,
+      "angles": {
+        "progress": 0.16597510373443983,
+        "cycle_progress": 0.5555555555555556,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.8726646259971648,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 50.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 41,
+      "time_seconds": 1.708333,
+      "angles": {
+        "progress": 0.17012448132780084,
+        "cycle_progress": 0.5694444444444444,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.8944812416470939,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 51.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 42,
+      "time_seconds": 1.75,
+      "angles": {
+        "progress": 0.17427385892116182,
+        "cycle_progress": 0.5833333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.9162978572970231,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 52.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 43,
+      "time_seconds": 1.791667,
+      "angles": {
+        "progress": 0.17842323651452283,
+        "cycle_progress": 0.5972222222222222,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.9381144729469522,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 53.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 44,
+      "time_seconds": 1.833333,
+      "angles": {
+        "progress": 0.1825726141078838,
+        "cycle_progress": 0.6111111111111112,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.9599310885968814,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 55.00000000000001,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 45,
+      "time_seconds": 1.875,
+      "angles": {
+        "progress": 0.18672199170124482,
+        "cycle_progress": 0.625,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.9817477042468103,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 56.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 46,
+      "time_seconds": 1.916667,
+      "angles": {
+        "progress": 0.1908713692946058,
+        "cycle_progress": 0.6388888888888888,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.0035643198967394,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 57.49999999999999,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 47,
+      "time_seconds": 1.958333,
+      "angles": {
+        "progress": 0.1950207468879668,
+        "cycle_progress": 0.6527777777777778,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.0253809355466685,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 58.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 48,
+      "time_seconds": 2.0,
+      "angles": {
+        "progress": 0.1991701244813278,
+        "cycle_progress": 0.6666666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.0471975511965976,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 60.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 49,
+      "time_seconds": 2.041667,
+      "angles": {
+        "progress": 0.2033195020746888,
+        "cycle_progress": 0.6805555555555556,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.069014166846527,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 61.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 50,
+      "time_seconds": 2.083333,
+      "angles": {
+        "progress": 0.2074688796680498,
+        "cycle_progress": 0.6944444444444444,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.090830782496456,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 62.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 51,
+      "time_seconds": 2.125,
+      "angles": {
+        "progress": 0.21161825726141079,
+        "cycle_progress": 0.7083333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.1126473981463851,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 63.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 52,
+      "time_seconds": 2.166667,
+      "angles": {
+        "progress": 0.2157676348547718,
+        "cycle_progress": 0.7222222222222222,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.1344640137963142,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 65.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 53,
+      "time_seconds": 2.208333,
+      "angles": {
+        "progress": 0.21991701244813278,
+        "cycle_progress": 0.7361111111111112,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.1562806294462433,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 66.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 54,
+      "time_seconds": 2.25,
+      "angles": {
+        "progress": 0.22406639004149378,
+        "cycle_progress": 0.75,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.1780972450961724,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 67.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 55,
+      "time_seconds": 2.291667,
+      "angles": {
+        "progress": 0.22821576763485477,
+        "cycle_progress": 0.7638888888888888,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.1999138607461015,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 68.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 56,
+      "time_seconds": 2.333333,
+      "angles": {
+        "progress": 0.23236514522821577,
+        "cycle_progress": 0.7777777777777778,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.2217304763960306,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 70.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 57,
+      "time_seconds": 2.375,
+      "angles": {
+        "progress": 0.23651452282157676,
+        "cycle_progress": 0.7916666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.2435470920459597,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 71.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 58,
+      "time_seconds": 2.416667,
+      "angles": {
+        "progress": 0.24066390041493776,
+        "cycle_progress": 0.8055555555555556,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.265363707695889,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 72.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 59,
+      "time_seconds": 2.458333,
+      "angles": {
+        "progress": 0.24481327800829875,
+        "cycle_progress": 0.8194444444444444,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.2871803233458181,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 73.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 60,
+      "time_seconds": 2.5,
+      "angles": {
+        "progress": 0.24896265560165975,
+        "cycle_progress": 0.8333333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.3089969389957472,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 75.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 61,
+      "time_seconds": 2.541667,
+      "angles": {
+        "progress": 0.25311203319502074,
+        "cycle_progress": 0.8472222222222222,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.3308135546456763,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 76.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 62,
+      "time_seconds": 2.583333,
+      "angles": {
+        "progress": 0.2572614107883817,
+        "cycle_progress": 0.8611111111111112,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.3526301702956054,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 77.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 63,
+      "time_seconds": 2.625,
+      "angles": {
+        "progress": 0.26141078838174275,
+        "cycle_progress": 0.875,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.3744467859455345,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 78.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 64,
+      "time_seconds": 2.666667,
+      "angles": {
+        "progress": 0.26556016597510373,
+        "cycle_progress": 0.8888888888888888,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.3962634015954636,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 80.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 65,
+      "time_seconds": 2.708333,
+      "angles": {
+        "progress": 0.2697095435684647,
+        "cycle_progress": 0.9027777777777778,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.4180800172453927,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 81.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 66,
+      "time_seconds": 2.75,
+      "angles": {
+        "progress": 0.27385892116182575,
+        "cycle_progress": 0.9166666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.4398966328953218,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 82.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 67,
+      "time_seconds": 2.791667,
+      "angles": {
+        "progress": 0.27800829875518673,
+        "cycle_progress": 0.9305555555555556,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.461713248545251,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 83.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 68,
+      "time_seconds": 2.833333,
+      "angles": {
+        "progress": 0.2821576763485477,
+        "cycle_progress": 0.9444444444444444,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.4835298641951802,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 85.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 69,
+      "time_seconds": 2.875,
+      "angles": {
+        "progress": 0.2863070539419087,
+        "cycle_progress": 0.9583333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5053464798451093,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 86.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 70,
+      "time_seconds": 2.916667,
+      "angles": {
+        "progress": 0.29045643153526973,
+        "cycle_progress": 0.9722222222222222,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5271630954950384,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 87.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 71,
+      "time_seconds": 2.958333,
+      "angles": {
+        "progress": 0.2946058091286307,
+        "cycle_progress": 0.9861111111111112,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5489797111449675,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 88.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 72,
+      "time_seconds": 3.0,
+      "angles": {
+        "progress": 0.2987551867219917,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 73,
+      "time_seconds": 3.041667,
+      "angles": {
+        "progress": 0.3029045643153527,
+        "cycle_progress": 0.010416666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.016362461737446838,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 0.9375,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 74,
+      "time_seconds": 3.083333,
+      "angles": {
+        "progress": 0.3070539419087137,
+        "cycle_progress": 0.020833333333333332,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.032724923474893676,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 1.875,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 75,
+      "time_seconds": 3.125,
+      "angles": {
+        "progress": 0.3112033195020747,
+        "cycle_progress": 0.03125,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.04908738521234052,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 2.8125,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 76,
+      "time_seconds": 3.166667,
+      "angles": {
+        "progress": 0.3153526970954357,
+        "cycle_progress": 0.041666666666666664,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.06544984694978735,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 3.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 77,
+      "time_seconds": 3.208333,
+      "angles": {
+        "progress": 0.31950207468879666,
+        "cycle_progress": 0.052083333333333336,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.0818123086872342,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 4.6875,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 78,
+      "time_seconds": 3.25,
+      "angles": {
+        "progress": 0.3236514522821577,
+        "cycle_progress": 0.0625,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.09817477042468103,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 5.625,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 79,
+      "time_seconds": 3.291667,
+      "angles": {
+        "progress": 0.3278008298755187,
+        "cycle_progress": 0.07291666666666667,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.11453723216212788,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 6.5625,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 80,
+      "time_seconds": 3.333333,
+      "angles": {
+        "progress": 0.33195020746887965,
+        "cycle_progress": 0.08333333333333333,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.1308996938995747,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 7.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 81,
+      "time_seconds": 3.375,
+      "angles": {
+        "progress": 0.3360995850622407,
+        "cycle_progress": 0.09375,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.14726215563702155,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 8.4375,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 82,
+      "time_seconds": 3.416667,
+      "angles": {
+        "progress": 0.34024896265560167,
+        "cycle_progress": 0.10416666666666667,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.1636246173744684,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 9.375,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 83,
+      "time_seconds": 3.458333,
+      "angles": {
+        "progress": 0.34439834024896265,
+        "cycle_progress": 0.11458333333333333,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.17998707911191522,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 10.3125,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 84,
+      "time_seconds": 3.5,
+      "angles": {
+        "progress": 0.34854771784232363,
+        "cycle_progress": 0.125,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.19634954084936207,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 11.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 85,
+      "time_seconds": 3.541667,
+      "angles": {
+        "progress": 0.35269709543568467,
+        "cycle_progress": 0.13541666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.21271200258680892,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 12.1875,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 86,
+      "time_seconds": 3.583333,
+      "angles": {
+        "progress": 0.35684647302904565,
+        "cycle_progress": 0.14583333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.22907446432425577,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 13.125,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 87,
+      "time_seconds": 3.625,
+      "angles": {
+        "progress": 0.36099585062240663,
+        "cycle_progress": 0.15625,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.2454369260617026,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 14.0625,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 88,
+      "time_seconds": 3.666667,
+      "angles": {
+        "progress": 0.3651452282157676,
+        "cycle_progress": 0.16666666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.2617993877991494,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 15.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 89,
+      "time_seconds": 3.708333,
+      "angles": {
+        "progress": 0.36929460580912865,
+        "cycle_progress": 0.17708333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.2781618495365963,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 15.9375,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 90,
+      "time_seconds": 3.75,
+      "angles": {
+        "progress": 0.37344398340248963,
+        "cycle_progress": 0.1875,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.2945243112740431,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 16.875,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 91,
+      "time_seconds": 3.791667,
+      "angles": {
+        "progress": 0.3775933609958506,
+        "cycle_progress": 0.19791666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.3108867730114899,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 17.8125,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 92,
+      "time_seconds": 3.833333,
+      "angles": {
+        "progress": 0.3817427385892116,
+        "cycle_progress": 0.20833333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.3272492347489368,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 18.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 93,
+      "time_seconds": 3.875,
+      "angles": {
+        "progress": 0.38589211618257263,
+        "cycle_progress": 0.21875,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.3436116964863836,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 19.6875,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 94,
+      "time_seconds": 3.916667,
+      "angles": {
+        "progress": 0.3900414937759336,
+        "cycle_progress": 0.22916666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.35997415822383044,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 20.625,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 95,
+      "time_seconds": 3.958333,
+      "angles": {
+        "progress": 0.3941908713692946,
+        "cycle_progress": 0.23958333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.3763366199612773,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 21.5625,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 96,
+      "time_seconds": 4.0,
+      "angles": {
+        "progress": 0.3983402489626556,
+        "cycle_progress": 0.25,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.39269908169872414,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 22.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 97,
+      "time_seconds": 4.041667,
+      "angles": {
+        "progress": 0.4024896265560166,
+        "cycle_progress": 0.2604166666666667,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.40906154343617096,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 23.4375,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 98,
+      "time_seconds": 4.083333,
+      "angles": {
+        "progress": 0.4066390041493776,
+        "cycle_progress": 0.2708333333333333,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.42542400517361784,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 24.375,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 99,
+      "time_seconds": 4.125,
+      "angles": {
+        "progress": 0.4107883817427386,
+        "cycle_progress": 0.28125,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.44178646691106466,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 25.3125,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 100,
+      "time_seconds": 4.166667,
+      "angles": {
+        "progress": 0.4149377593360996,
+        "cycle_progress": 0.2916666666666667,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.45814892864851153,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 26.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 101,
+      "time_seconds": 4.208333,
+      "angles": {
+        "progress": 0.4190871369294606,
+        "cycle_progress": 0.3020833333333333,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.47451139038595835,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 27.1875,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 102,
+      "time_seconds": 4.25,
+      "angles": {
+        "progress": 0.42323651452282157,
+        "cycle_progress": 0.3125,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.4908738521234052,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 28.125,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 103,
+      "time_seconds": 4.291667,
+      "angles": {
+        "progress": 0.42738589211618255,
+        "cycle_progress": 0.3229166666666667,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.507236313860852,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 29.0625,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 104,
+      "time_seconds": 4.333333,
+      "angles": {
+        "progress": 0.4315352697095436,
+        "cycle_progress": 0.3333333333333333,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.5235987755982988,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 30.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 105,
+      "time_seconds": 4.375,
+      "angles": {
+        "progress": 0.43568464730290457,
+        "cycle_progress": 0.34375,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.5399612373357457,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 30.9375,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 106,
+      "time_seconds": 4.416667,
+      "angles": {
+        "progress": 0.43983402489626555,
+        "cycle_progress": 0.3541666666666667,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.5563236990731926,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 31.875,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 107,
+      "time_seconds": 4.458333,
+      "angles": {
+        "progress": 0.44398340248962653,
+        "cycle_progress": 0.3645833333333333,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.5726861608106394,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 32.8125,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 108,
+      "time_seconds": 4.5,
+      "angles": {
+        "progress": 0.44813278008298757,
+        "cycle_progress": 0.375,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.5890486225480862,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 33.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 109,
+      "time_seconds": 4.541667,
+      "angles": {
+        "progress": 0.45228215767634855,
+        "cycle_progress": 0.3854166666666667,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.605411084285533,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 34.6875,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 110,
+      "time_seconds": 4.583333,
+      "angles": {
+        "progress": 0.45643153526970953,
+        "cycle_progress": 0.3958333333333333,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.6217735460229799,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 35.625,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 111,
+      "time_seconds": 4.625,
+      "angles": {
+        "progress": 0.4605809128630705,
+        "cycle_progress": 0.40625,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.6381360077604268,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 36.5625,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 112,
+      "time_seconds": 4.666667,
+      "angles": {
+        "progress": 0.46473029045643155,
+        "cycle_progress": 0.4166666666666667,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.6544984694978736,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 37.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 113,
+      "time_seconds": 4.708333,
+      "angles": {
+        "progress": 0.46887966804979253,
+        "cycle_progress": 0.4270833333333333,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.6708609312353204,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 38.4375,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 114,
+      "time_seconds": 4.75,
+      "angles": {
+        "progress": 0.4730290456431535,
+        "cycle_progress": 0.4375,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.6872233929727672,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 39.375,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 115,
+      "time_seconds": 4.791667,
+      "angles": {
+        "progress": 0.47717842323651455,
+        "cycle_progress": 0.4479166666666667,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.7035858547102141,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 40.3125,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 116,
+      "time_seconds": 4.833333,
+      "angles": {
+        "progress": 0.48132780082987553,
+        "cycle_progress": 0.4583333333333333,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.7199483164476609,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 41.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 117,
+      "time_seconds": 4.875,
+      "angles": {
+        "progress": 0.4854771784232365,
+        "cycle_progress": 0.46875,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.7363107781851078,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 42.1875,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 118,
+      "time_seconds": 4.916667,
+      "angles": {
+        "progress": 0.4896265560165975,
+        "cycle_progress": 0.4791666666666667,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.7526732399225546,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 43.125,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 119,
+      "time_seconds": 4.958333,
+      "angles": {
+        "progress": 0.49377593360995853,
+        "cycle_progress": 0.4895833333333333,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.7690357016600015,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 44.0625,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 120,
+      "time_seconds": 5.0,
+      "angles": {
+        "progress": 0.4979253112033195,
+        "cycle_progress": 0.5,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.7853981633974483,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 45.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 121,
+      "time_seconds": 5.041667,
+      "angles": {
+        "progress": 0.5020746887966805,
+        "cycle_progress": 0.5104166666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.8017606251348951,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 45.9375,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 122,
+      "time_seconds": 5.083333,
+      "angles": {
+        "progress": 0.5062240663900415,
+        "cycle_progress": 0.5208333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.8181230868723419,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 46.875,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 123,
+      "time_seconds": 5.125,
+      "angles": {
+        "progress": 0.5103734439834025,
+        "cycle_progress": 0.53125,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.8344855486097889,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 47.8125,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 124,
+      "time_seconds": 5.166667,
+      "angles": {
+        "progress": 0.5145228215767634,
+        "cycle_progress": 0.5416666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.8508480103472357,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 48.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 125,
+      "time_seconds": 5.208333,
+      "angles": {
+        "progress": 0.5186721991701245,
+        "cycle_progress": 0.5520833333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.8672104720846825,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 49.6875,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 126,
+      "time_seconds": 5.25,
+      "angles": {
+        "progress": 0.5228215767634855,
+        "cycle_progress": 0.5625,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.8835729338221293,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 50.625,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 127,
+      "time_seconds": 5.291667,
+      "angles": {
+        "progress": 0.5269709543568465,
+        "cycle_progress": 0.5729166666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.8999353955595761,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 51.5625,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 128,
+      "time_seconds": 5.333333,
+      "angles": {
+        "progress": 0.5311203319502075,
+        "cycle_progress": 0.5833333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.9162978572970231,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 52.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 129,
+      "time_seconds": 5.375,
+      "angles": {
+        "progress": 0.5352697095435685,
+        "cycle_progress": 0.59375,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.9326603190344699,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 53.4375,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 130,
+      "time_seconds": 5.416667,
+      "angles": {
+        "progress": 0.5394190871369294,
+        "cycle_progress": 0.6041666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.9490227807719167,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 54.375,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 131,
+      "time_seconds": 5.458333,
+      "angles": {
+        "progress": 0.5435684647302904,
+        "cycle_progress": 0.6145833333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.9653852425093635,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 55.3125,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 132,
+      "time_seconds": 5.5,
+      "angles": {
+        "progress": 0.5477178423236515,
+        "cycle_progress": 0.625,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.9817477042468103,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 56.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 133,
+      "time_seconds": 5.541667,
+      "angles": {
+        "progress": 0.5518672199170125,
+        "cycle_progress": 0.6354166666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.9981101659842572,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 57.1875,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 134,
+      "time_seconds": 5.583333,
+      "angles": {
+        "progress": 0.5560165975103735,
+        "cycle_progress": 0.6458333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.014472627721704,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 58.125,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 135,
+      "time_seconds": 5.625,
+      "angles": {
+        "progress": 0.5601659751037344,
+        "cycle_progress": 0.65625,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.030835089459151,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 59.0625,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 136,
+      "time_seconds": 5.666667,
+      "angles": {
+        "progress": 0.5643153526970954,
+        "cycle_progress": 0.6666666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.0471975511965976,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 60.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 137,
+      "time_seconds": 5.708333,
+      "angles": {
+        "progress": 0.5684647302904564,
+        "cycle_progress": 0.6770833333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.0635600129340446,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 60.9375,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 138,
+      "time_seconds": 5.75,
+      "angles": {
+        "progress": 0.5726141078838174,
+        "cycle_progress": 0.6875,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.0799224746714915,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 61.875,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 139,
+      "time_seconds": 5.791667,
+      "angles": {
+        "progress": 0.5767634854771784,
+        "cycle_progress": 0.6979166666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.0962849364089382,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 62.8125,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 140,
+      "time_seconds": 5.833333,
+      "angles": {
+        "progress": 0.5809128630705395,
+        "cycle_progress": 0.7083333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.1126473981463851,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 63.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 141,
+      "time_seconds": 5.875,
+      "angles": {
+        "progress": 0.5850622406639004,
+        "cycle_progress": 0.71875,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.1290098598838318,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 64.6875,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 142,
+      "time_seconds": 5.916667,
+      "angles": {
+        "progress": 0.5892116182572614,
+        "cycle_progress": 0.7291666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.1453723216212788,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 65.625,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 143,
+      "time_seconds": 5.958333,
+      "angles": {
+        "progress": 0.5933609958506224,
+        "cycle_progress": 0.7395833333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.1617347833587257,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 66.5625,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 144,
+      "time_seconds": 6.0,
+      "angles": {
+        "progress": 0.5975103734439834,
+        "cycle_progress": 0.75,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.1780972450961724,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 67.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 145,
+      "time_seconds": 6.041667,
+      "angles": {
+        "progress": 0.6016597510373444,
+        "cycle_progress": 0.7604166666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.1944597068336194,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 68.4375,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 146,
+      "time_seconds": 6.083333,
+      "angles": {
+        "progress": 0.6058091286307054,
+        "cycle_progress": 0.7708333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.210822168571066,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 69.375,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 147,
+      "time_seconds": 6.125,
+      "angles": {
+        "progress": 0.6099585062240664,
+        "cycle_progress": 0.78125,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.227184630308513,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 70.3125,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 148,
+      "time_seconds": 6.166667,
+      "angles": {
+        "progress": 0.6141078838174274,
+        "cycle_progress": 0.7916666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.2435470920459597,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 71.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 149,
+      "time_seconds": 6.208333,
+      "angles": {
+        "progress": 0.6182572614107884,
+        "cycle_progress": 0.8020833333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.2599095537834066,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 72.1875,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 150,
+      "time_seconds": 6.25,
+      "angles": {
+        "progress": 0.6224066390041494,
+        "cycle_progress": 0.8125,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.2762720155208536,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 73.125,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 151,
+      "time_seconds": 6.291667,
+      "angles": {
+        "progress": 0.6265560165975104,
+        "cycle_progress": 0.8229166666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.2926344772583003,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 74.0625,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 152,
+      "time_seconds": 6.333333,
+      "angles": {
+        "progress": 0.6307053941908713,
+        "cycle_progress": 0.8333333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.3089969389957472,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 75.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 153,
+      "time_seconds": 6.375,
+      "angles": {
+        "progress": 0.6348547717842323,
+        "cycle_progress": 0.84375,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.325359400733194,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 75.9375,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 154,
+      "time_seconds": 6.416667,
+      "angles": {
+        "progress": 0.6390041493775933,
+        "cycle_progress": 0.8541666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.3417218624706408,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 76.875,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 155,
+      "time_seconds": 6.458333,
+      "angles": {
+        "progress": 0.6431535269709544,
+        "cycle_progress": 0.8645833333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.3580843242080878,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 77.8125,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 156,
+      "time_seconds": 6.5,
+      "angles": {
+        "progress": 0.6473029045643154,
+        "cycle_progress": 0.875,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.3744467859455345,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 78.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 157,
+      "time_seconds": 6.541667,
+      "angles": {
+        "progress": 0.6514522821576764,
+        "cycle_progress": 0.8854166666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.3908092476829814,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 79.6875,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 158,
+      "time_seconds": 6.583333,
+      "angles": {
+        "progress": 0.6556016597510373,
+        "cycle_progress": 0.8958333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.4071717094204281,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 80.625,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 159,
+      "time_seconds": 6.625,
+      "angles": {
+        "progress": 0.6597510373443983,
+        "cycle_progress": 0.90625,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.423534171157875,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 81.5625,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 160,
+      "time_seconds": 6.666667,
+      "angles": {
+        "progress": 0.6639004149377593,
+        "cycle_progress": 0.9166666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.4398966328953218,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 82.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 161,
+      "time_seconds": 6.708333,
+      "angles": {
+        "progress": 0.6680497925311203,
+        "cycle_progress": 0.9270833333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.4562590946327687,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 83.4375,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 162,
+      "time_seconds": 6.75,
+      "angles": {
+        "progress": 0.6721991701244814,
+        "cycle_progress": 0.9375,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.4726215563702156,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 84.375,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 163,
+      "time_seconds": 6.791667,
+      "angles": {
+        "progress": 0.6763485477178424,
+        "cycle_progress": 0.9479166666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.4889840181076623,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 85.3125,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 164,
+      "time_seconds": 6.833333,
+      "angles": {
+        "progress": 0.6804979253112033,
+        "cycle_progress": 0.9583333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5053464798451093,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 86.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 165,
+      "time_seconds": 6.875,
+      "angles": {
+        "progress": 0.6846473029045643,
+        "cycle_progress": 0.96875,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.521708941582556,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 87.1875,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 166,
+      "time_seconds": 6.916667,
+      "angles": {
+        "progress": 0.6887966804979253,
+        "cycle_progress": 0.9791666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.538071403320003,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 88.125,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 167,
+      "time_seconds": 6.958333,
+      "angles": {
+        "progress": 0.6929460580912863,
+        "cycle_progress": 0.9895833333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5544338650574498,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 89.0625,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 168,
+      "time_seconds": 7.0,
+      "angles": {
+        "progress": 0.6970954356846473,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 169,
+      "time_seconds": 7.041667,
+      "angles": {
+        "progress": 0.7012448132780082,
+        "cycle_progress": 0.041666666666666664,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.06544984694978735,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 3.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 170,
+      "time_seconds": 7.083333,
+      "angles": {
+        "progress": 0.7053941908713693,
+        "cycle_progress": 0.08333333333333333,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.1308996938995747,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 7.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 171,
+      "time_seconds": 7.125,
+      "angles": {
+        "progress": 0.7095435684647303,
+        "cycle_progress": 0.125,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.19634954084936207,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 11.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 172,
+      "time_seconds": 7.166667,
+      "angles": {
+        "progress": 0.7136929460580913,
+        "cycle_progress": 0.16666666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.2617993877991494,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 15.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 173,
+      "time_seconds": 7.208333,
+      "angles": {
+        "progress": 0.7178423236514523,
+        "cycle_progress": 0.20833333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.3272492347489368,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 18.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 174,
+      "time_seconds": 7.25,
+      "angles": {
+        "progress": 0.7219917012448133,
+        "cycle_progress": 0.25,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.39269908169872414,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 22.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 175,
+      "time_seconds": 7.291667,
+      "angles": {
+        "progress": 0.7261410788381742,
+        "cycle_progress": 0.2916666666666667,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.45814892864851153,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 26.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 176,
+      "time_seconds": 7.333333,
+      "angles": {
+        "progress": 0.7302904564315352,
+        "cycle_progress": 0.3333333333333333,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.5235987755982988,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 30.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 177,
+      "time_seconds": 7.375,
+      "angles": {
+        "progress": 0.7344398340248963,
+        "cycle_progress": 0.375,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.5890486225480862,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 33.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 178,
+      "time_seconds": 7.416667,
+      "angles": {
+        "progress": 0.7385892116182573,
+        "cycle_progress": 0.4166666666666667,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.6544984694978736,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 37.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 179,
+      "time_seconds": 7.458333,
+      "angles": {
+        "progress": 0.7427385892116183,
+        "cycle_progress": 0.4583333333333333,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.7199483164476609,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 41.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 180,
+      "time_seconds": 7.5,
+      "angles": {
+        "progress": 0.7468879668049793,
+        "cycle_progress": 0.5,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.7853981633974483,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 45.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 181,
+      "time_seconds": 7.541667,
+      "angles": {
+        "progress": 0.7510373443983402,
+        "cycle_progress": 0.5416666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.8508480103472357,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 48.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 182,
+      "time_seconds": 7.583333,
+      "angles": {
+        "progress": 0.7551867219917012,
+        "cycle_progress": 0.5833333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.9162978572970231,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 52.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 183,
+      "time_seconds": 7.625,
+      "angles": {
+        "progress": 0.7593360995850622,
+        "cycle_progress": 0.625,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 0.9817477042468103,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 56.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 184,
+      "time_seconds": 7.666667,
+      "angles": {
+        "progress": 0.7634854771784232,
+        "cycle_progress": 0.6666666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.0471975511965976,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 60.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 185,
+      "time_seconds": 7.708333,
+      "angles": {
+        "progress": 0.7676348547717843,
+        "cycle_progress": 0.7083333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.1126473981463851,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 63.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 186,
+      "time_seconds": 7.75,
+      "angles": {
+        "progress": 0.7717842323651453,
+        "cycle_progress": 0.75,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.1780972450961724,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 67.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 187,
+      "time_seconds": 7.791667,
+      "angles": {
+        "progress": 0.7759336099585062,
+        "cycle_progress": 0.7916666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.2435470920459597,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 71.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 188,
+      "time_seconds": 7.833333,
+      "angles": {
+        "progress": 0.7800829875518672,
+        "cycle_progress": 0.8333333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.3089969389957472,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 75.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 189,
+      "time_seconds": 7.875,
+      "angles": {
+        "progress": 0.7842323651452282,
+        "cycle_progress": 0.875,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.3744467859455345,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 78.75,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 190,
+      "time_seconds": 7.916667,
+      "angles": {
+        "progress": 0.7883817427385892,
+        "cycle_progress": 0.9166666666666666,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.4398966328953218,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 82.5,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 191,
+      "time_seconds": 7.958333,
+      "angles": {
+        "progress": 0.7925311203319502,
+        "cycle_progress": 0.9583333333333334,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5053464798451093,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 86.25,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 192,
+      "time_seconds": 8.0,
+      "angles": {
+        "progress": 0.7966804979253111,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 193,
+      "time_seconds": 8.041667,
+      "angles": {
+        "progress": 0.8008298755186722,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 194,
+      "time_seconds": 8.083333,
+      "angles": {
+        "progress": 0.8049792531120332,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 195,
+      "time_seconds": 8.125,
+      "angles": {
+        "progress": 0.8091286307053942,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 196,
+      "time_seconds": 8.166667,
+      "angles": {
+        "progress": 0.8132780082987552,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 197,
+      "time_seconds": 8.208333,
+      "angles": {
+        "progress": 0.8174273858921162,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 198,
+      "time_seconds": 8.25,
+      "angles": {
+        "progress": 0.8215767634854771,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 199,
+      "time_seconds": 8.291667,
+      "angles": {
+        "progress": 0.8257261410788381,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 200,
+      "time_seconds": 8.333333,
+      "angles": {
+        "progress": 0.8298755186721992,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 201,
+      "time_seconds": 8.375,
+      "angles": {
+        "progress": 0.8340248962655602,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 202,
+      "time_seconds": 8.416667,
+      "angles": {
+        "progress": 0.8381742738589212,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 203,
+      "time_seconds": 8.458333,
+      "angles": {
+        "progress": 0.8423236514522822,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 204,
+      "time_seconds": 8.5,
+      "angles": {
+        "progress": 0.8464730290456431,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 205,
+      "time_seconds": 8.541667,
+      "angles": {
+        "progress": 0.8506224066390041,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 206,
+      "time_seconds": 8.583333,
+      "angles": {
+        "progress": 0.8547717842323651,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 207,
+      "time_seconds": 8.625,
+      "angles": {
+        "progress": 0.8589211618257261,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 208,
+      "time_seconds": 8.666667,
+      "angles": {
+        "progress": 0.8630705394190872,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 209,
+      "time_seconds": 8.708333,
+      "angles": {
+        "progress": 0.8672199170124482,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 210,
+      "time_seconds": 8.75,
+      "angles": {
+        "progress": 0.8713692946058091,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 211,
+      "time_seconds": 8.791667,
+      "angles": {
+        "progress": 0.8755186721991701,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 212,
+      "time_seconds": 8.833333,
+      "angles": {
+        "progress": 0.8796680497925311,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 213,
+      "time_seconds": 8.875,
+      "angles": {
+        "progress": 0.8838174273858921,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 214,
+      "time_seconds": 8.916667,
+      "angles": {
+        "progress": 0.8879668049792531,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 215,
+      "time_seconds": 8.958333,
+      "angles": {
+        "progress": 0.8921161825726142,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 216,
+      "time_seconds": 9.0,
+      "angles": {
+        "progress": 0.8962655601659751,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 217,
+      "time_seconds": 9.041667,
+      "angles": {
+        "progress": 0.9004149377593361,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 218,
+      "time_seconds": 9.083333,
+      "angles": {
+        "progress": 0.9045643153526971,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 219,
+      "time_seconds": 9.125,
+      "angles": {
+        "progress": 0.9087136929460581,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 220,
+      "time_seconds": 9.166667,
+      "angles": {
+        "progress": 0.9128630705394191,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 221,
+      "time_seconds": 9.208333,
+      "angles": {
+        "progress": 0.91701244813278,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 222,
+      "time_seconds": 9.25,
+      "angles": {
+        "progress": 0.921161825726141,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 223,
+      "time_seconds": 9.291667,
+      "angles": {
+        "progress": 0.9253112033195021,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 224,
+      "time_seconds": 9.333333,
+      "angles": {
+        "progress": 0.9294605809128631,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 225,
+      "time_seconds": 9.375,
+      "angles": {
+        "progress": 0.9336099585062241,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 226,
+      "time_seconds": 9.416667,
+      "angles": {
+        "progress": 0.9377593360995851,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 227,
+      "time_seconds": 9.458333,
+      "angles": {
+        "progress": 0.941908713692946,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 228,
+      "time_seconds": 9.5,
+      "angles": {
+        "progress": 0.946058091286307,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 229,
+      "time_seconds": 9.541667,
+      "angles": {
+        "progress": 0.950207468879668,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 230,
+      "time_seconds": 9.583333,
+      "angles": {
+        "progress": 0.9543568464730291,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 231,
+      "time_seconds": 9.625,
+      "angles": {
+        "progress": 0.9585062240663901,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 232,
+      "time_seconds": 9.666667,
+      "angles": {
+        "progress": 0.9626556016597511,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 233,
+      "time_seconds": 9.708333,
+      "angles": {
+        "progress": 0.966804979253112,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 234,
+      "time_seconds": 9.75,
+      "angles": {
+        "progress": 0.970954356846473,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 235,
+      "time_seconds": 9.791667,
+      "angles": {
+        "progress": 0.975103734439834,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 236,
+      "time_seconds": 9.833333,
+      "angles": {
+        "progress": 0.979253112033195,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 237,
+      "time_seconds": 9.875,
+      "angles": {
+        "progress": 0.983402489626556,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 238,
+      "time_seconds": 9.916667,
+      "angles": {
+        "progress": 0.9875518672199171,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 239,
+      "time_seconds": 9.958333,
+      "angles": {
+        "progress": 0.991701244813278,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 240,
+      "time_seconds": 10.0,
+      "angles": {
+        "progress": 0.995850622406639,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    },
+    {
+      "frame": 241,
+      "time_seconds": 10.041667,
+      "angles": {
+        "progress": 1.0,
+        "cycle_progress": 1.0,
+        "angle_x_rad": 0.0,
+        "angle_y_rad": 0.0,
+        "angle_z_rad": 1.5707963267948966,
+        "angle_x_deg": 0.0,
+        "angle_y_deg": 0.0,
+        "angle_z_deg": 90.0,
+        "camera_azim": 45.0,
+        "camera_elev": 30.0
+      }
+    }
+  ]
+}

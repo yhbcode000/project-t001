@@ -16,3 +16,7 @@ __pycache__
 target
 coverage
 *.tsbuildinfo
+
+# Generated assets
+apps/web/public/pvi/frames/
+apps/web/public/pvi/*.mp4

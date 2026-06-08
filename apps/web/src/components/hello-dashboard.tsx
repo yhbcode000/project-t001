@@ -5,6 +5,7 @@ import { useEffect, useRef, useState } from 'react'
 import { createDatabaseHello, createLiveKitToken, fetchHello, requestDesktopAutomation, runAgentHello, triggerHelloJob, wsUrl } from '@/lib/api'
 import { gsap, useGSAP } from '@/lib/gsap'
 import { useHelloStore } from '@/store/hello-store'
+import { PviViewer } from './pvi-viewer'
 
 const stackGroups = [
   {
@@ -156,6 +157,8 @@ export function HelloDashboard() {
             ))}
           </div>
         </section>
+
+        <PviViewer />
 
         <section className="grid gap-4 lg:grid-cols-3">
           <div className="hero-card rounded-2xl border border-white/10 bg-slate-900/80 p-6">

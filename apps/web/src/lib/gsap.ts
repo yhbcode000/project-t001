@@ -3,9 +3,11 @@
 import gsap from 'gsap'
 import { useGSAP } from '@gsap/react'
 import { ScrollTrigger } from 'gsap/ScrollTrigger'
+import { Draggable } from 'gsap/Draggable'
+import { Observer } from 'gsap/Observer'
 
 if (typeof window !== 'undefined') {
-  gsap.registerPlugin(useGSAP, ScrollTrigger)
+  gsap.registerPlugin(useGSAP, ScrollTrigger, Draggable, Observer)
   gsap.defaults({
     duration: 0.8,
     ease: 'power3.out',
@@ -17,4 +19,4 @@ if (typeof window !== 'undefined') {
   })
 }
 
-export { gsap, useGSAP }
+export { gsap, useGSAP, ScrollTrigger, Draggable, Observer }
