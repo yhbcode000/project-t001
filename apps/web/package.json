@@ -1,0 +1,32 @@
+{
+  "name": "@hello-platform/web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@auth/core": "latest",
+    "@gsap/react": "latest",
+    "@tanstack/react-query": "latest",
+    "autoprefixer": "latest",
+    "gsap": "latest",
+    "next": "latest",
+    "next-auth": "latest",
+    "postcss": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest",
+    "zustand": "latest",
+    "@tailwindcss/postcss": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest"
+  }
+}
