@@ -1,0 +1,26 @@
+{
+  "name": "hello-platform-monorepo",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/web",
+    "apps/desktop",
+    "apps/mobile"
+  ],
+  "scripts": {
+    "dev:web": "npm --workspace apps/web run dev",
+    "build:web": "npm --workspace apps/web run build",
+    "dev:desktop": "npm --workspace apps/desktop run dev",
+    "dev:mobile": "npm --workspace apps/mobile run dev",
+    "dev:api": "cd services/api && uvicorn app.main:app --reload --host 0.0.0.0 --port 8000",
+    "dev:realtime": "cd services/realtime && uvicorn app.main:app --reload --host 0.0.0.0 --port 8010",
+    "dev:worker": "cd services/worker && celery -A app.celery_app worker --loglevel=info",
+    "dev:rust": "cd services/rust-edge && cargo run",
+    "dev:infra": "docker compose -f infra/docker-compose.yml up",
+    "typecheck": "npm --workspace apps/web run typecheck",
+    "dev:agent": "cd services/agent && uvicorn app.main:app --reload --host 0.0.0.0 --port 8020",
+    "test:python-compile": "python -m compileall services/api services/realtime services/worker services/agent",
+    "test:rust": "cd services/rust-edge && cargo check",
+    "test:web": "npm run typecheck && npm run build:web"
+  }
+}

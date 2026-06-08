@@ -1,0 +1,16 @@
+{
+  "name": "@hello-platform/mobile",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "capacitor sync",
+    "ios": "capacitor open ios",
+    "android": "capacitor open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.4",
+    "@capacitor/cli": "^7.4.4",
+    "@capacitor/core": "^7.4.4",
+    "@capacitor/ios": "^7.4.4"
+  }
+}
