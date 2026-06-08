@@ -5,7 +5,8 @@
   "main": "src/main.js",
   "scripts": {
     "dev": "electron src/main.js",
-    "package": "electron-builder"
+    "package": "electron-builder",
+    "test": "node --test"
   },
   "dependencies": {
     "electron": "^33.4.11"
